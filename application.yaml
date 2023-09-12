@@ -1,0 +1,30 @@
+
+indexing-settings:
+  sites:
+    - url: https://volochek.life
+      name: Волочек.life
+#    - url: https://ipfran.ru
+#      name: Ipfran.ru
+    - url: https://www.playback.ru
+      name: PlayBack.Ru
+
+connection:
+  userAgent: SearchEngineSearchBot
+
+server:
+  port: 8080
+#spring:
+#  datasource:
+#    username: root
+#    password: root
+#    url: jdbc:mysql://localhost:3306/search_engine?createDatabaseIfNotExist=true
+#    url: jdbc:mysql://localhost:3306/search_engine?useSSL=false&requireSSL=false&allowPublicKeyRetrieval=true
+
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.MySQL8Dialect
+#        ddl-auto: update
+#        generate-ddl: true
+#        show-sql: true
+
